@@ -1,4 +1,4 @@
-Aluno Deselvolvedor: Calven Martins
+Aluno Desenvolvedor: Calven Martins
 Matricula: 1112197
 Email: calvengabriel@gmail.com
 
