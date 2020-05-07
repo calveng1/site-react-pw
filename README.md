@@ -1,3 +1,5 @@
+Esse projeto foi desenvolvido durante as aulas de Tópicos especiais em programação (Programação Web - ReactJS).
+
 Aluno Desenvolvedor: Calven Martins
 Matricula: 1112197
 Email: calvengabriel@gmail.com
